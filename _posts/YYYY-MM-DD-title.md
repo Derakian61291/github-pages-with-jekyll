@@ -1,1 +1,2 @@
-minima
+minima theme to be added
+
